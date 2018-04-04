@@ -7,3 +7,4 @@ There are design patterns implemented in this project. The list will be replenis
 #### Design patterns list
 - Strategy pattern
 - Productor and Consumer pattern
+- Singleton
