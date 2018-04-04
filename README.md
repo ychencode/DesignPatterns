@@ -5,10 +5,10 @@ Some basic design patterns' realization in golang
 There are design patterns implemented in this project. The list will be replenished with time.
 
 #### Design patterns list
-- Strategy pattern
-- Productor and Consumer pattern
-- Singleton
-- Observer
+- [x] Strategy pattern
+- [x] Productor and Consumer pattern
+- [x] Singleton
+- [x] Observer
 
 ## Usage
 The library is not intended for direct use by importing. We strongly recommend copying the necessary implementations and adjusting to your case.
