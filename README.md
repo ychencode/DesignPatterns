@@ -10,6 +10,7 @@ There are design patterns implemented in this project. The list will be replenis
 - [x] Singleton
 - [x] Observer
 - [x] FactoryMethod
+- [x] SimpleFactory
 
 ## Usage
 The library is not intended for direct use by importing. We strongly recommend copying the necessary implementations and adjusting to your case.
