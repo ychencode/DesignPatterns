@@ -8,3 +8,4 @@ There are design patterns implemented in this project. The list will be replenis
 - Strategy pattern
 - Productor and Consumer pattern
 - Singleton
+- Observer
