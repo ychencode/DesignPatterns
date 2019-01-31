@@ -11,6 +11,7 @@ There are design patterns implemented in this project. The list will be replenis
 - [x] Observer
 - [x] FactoryMethod
 - [x] SimpleFactory
+- [X] Builder
 
 #### Data Structure List
 - [x] AvlTree
