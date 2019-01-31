@@ -12,6 +12,9 @@ There are design patterns implemented in this project. The list will be replenis
 - [x] FactoryMethod
 - [x] SimpleFactory
 
+#### Data Structure List
+- [x] AvlTree
+
 ## Usage
 The library is not intended for direct use by importing. We strongly recommend copying the necessary implementations and adjusting to your case.
 You can download the source using `go get` command:
