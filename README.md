@@ -12,6 +12,7 @@ There are design patterns implemented in this project. The list will be replenis
 - [x] FactoryMethod
 - [x] SimpleFactory
 - [X] Builder
+- [X] Responsibility Chain
 
 #### Data Structure List
 - [x] AvlTree
